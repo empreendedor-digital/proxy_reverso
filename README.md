@@ -17,7 +17,7 @@ Repositório com exemplos de configurações de proxy reverso para auxiliar em p
 
 **Requisitos:**
 
-- [Caddy](https://caddyserver.com/) ou [Docker](https://docker.com/) / [Podman](https://podman.io/) 
+- [Caddy](https://caddyserver.com/) ou [Docker](https://www.docker.com/get-started/) / [Podman](https://podman.io/) 
 
 
 Caddy:
