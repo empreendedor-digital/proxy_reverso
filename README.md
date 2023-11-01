@@ -17,10 +17,13 @@ Repositório com exemplos de configurações de proxy reverso para auxiliar em p
 
 **Requisitos:**
 
-- [Docker](https://docker.com/) / [Podman](https://podman.io/)
+- [Caddy](https://caddyserver.com/) ou [Docker](https://docker.com/) / [Podman](https://podman.io/) 
 
 
-Exemplo utilizando [Caddy](https://caddyserver.com/):
+Caddy:
+```
+caddy reverse-proxy --from http://endereco.local:8080 --to https://endereco.publico --change-host-header
+```
 
 Docker:
 ```
