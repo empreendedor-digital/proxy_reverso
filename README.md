@@ -1,6 +1,6 @@
 # Proxy_reverso
 
-Repositório com exemplos de configurações de proxy reverso para auxiliar em problemas de compatibilidade HTTPS.
+Repositório com exemplos de configurações de proxy reverso para auxiliar em problemas de compatibilidade com HTTPS.
 
 **Considerações:**
 
