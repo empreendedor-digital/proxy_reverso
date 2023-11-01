@@ -19,7 +19,7 @@ Exemplo utilizando [Caddy](https://caddyserver.com/):
 
 Docker:
 ```
-docker run -p 8080:80 -it docker.io/caddy caddy reverse-proxy --from http://endereco.local --to https://endereco.publico --change-host-header
+docker run -d -p 8080:80 -it docker.io/caddy caddy reverse-proxy --from http://endereco.local --to https://endereco.publico --change-host-header
 ```
 
 Podman: 
